@@ -1,0 +1,13 @@
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-java-1.0.0-beta04-0 /Users/nguyenthanhluan/.gradle/caches/transforms-3/0d0b9bf1cde86d123939262d0cee7bff/transformed/jetified-window-java-1.0.0-beta04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-security-crypto-1.1.0-alpha04-1 /Users/nguyenthanhluan/.gradle/caches/transforms-3/434186e89d949b8a4ca977fbb5ea1024/transformed/jetified-security-crypto-1.1.0-alpha04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-annotation-experimental-1.1.0-2 /Users/nguyenthanhluan/.gradle/caches/transforms-3/9c29ba636b4d9e388700d68af4bf88fd/transformed/jetified-annotation-experimental-1.1.0/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-core-1.6.0-3 /Users/nguyenthanhluan/.gradle/caches/transforms-3/aa7fb01c1f64e1af3324f8849fe86374/transformed/core-1.6.0/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-1.0.0-beta04-4 /Users/nguyenthanhluan/.gradle/caches/transforms-3/af350955acec0e4150c51e9e6b3222b3/transformed/jetified-window-1.0.0-beta04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-main-5 /Users/nguyenthanhluan/.pub-cache/hosted/pub.dev/flutter_secure_storage-8.0.0/android/src/main/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-release-6 /Users/nguyenthanhluan/.pub-cache/hosted/pub.dev/flutter_secure_storage-8.0.0/android/src/release/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-pngs-7 /Users/nguyenthanhluan/Documents/sma_do/build/flutter_secure_storage/generated/res/pngs/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-resValues-8 /Users/nguyenthanhluan/Documents/sma_do/build/flutter_secure_storage/generated/res/resValues/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-rs-9 /Users/nguyenthanhluan/Documents/sma_do/build/flutter_secure_storage/generated/res/rs/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-10 /Users/nguyenthanhluan/Documents/sma_do/build/flutter_secure_storage/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-11 /Users/nguyenthanhluan/Documents/sma_do/build/flutter_secure_storage/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-merged_res-12 /Users/nguyenthanhluan/Documents/sma_do/build/flutter_secure_storage/intermediates/merged_res/release

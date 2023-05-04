@@ -1,0 +1,4 @@
+#Mon Apr 24 12:22:52 ICT 2023
+base.0=/Users/nguyenthanhluan/Documents/sma_do/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
